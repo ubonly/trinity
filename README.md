@@ -1,4 +1,4 @@
-# Trinity WM 🔱
+# Trinity WM 
 
 Trinity WM is a lightweight, dynamic tiling window manager for X11 written in C. Inspired by classic window managers like `dwm` and `sxwm`, Trinity WM brings a fast, minimalistic, and modern tiling environment to Xorg with runtime configuration hot-reloading.
 
@@ -50,10 +50,6 @@ Add `exec twm` to the end of your `~/.xinitrc` file:
 
 ```bash
 # ~/.xinitrc
-# Start status bar or other background helpers here:
-# quickshell -p ~/.config/quickshell-x11/shell.qml &
-# picom --animations &
-
 exec twm
 ```
 
