@@ -34,8 +34,8 @@ sudo apt install libx11-dev build-essential
 Clone this repository and compile:
 
 ```bash
-git clone https://github.com/your-username/trinitywm.git
-cd trinitywm
+git clone https://github.com/ubonly/trinity.git
+cd trinity
 make
 sudo make install
 ```
