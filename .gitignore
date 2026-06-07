@@ -1,0 +1,12 @@
+# Compiled binaries and objects
+twm
+sexywm
+*.o
+*.a
+*.so
+
+# Editor files
+*~
+.DS_Store
+.idea/
+.vscode/
